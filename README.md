@@ -2,7 +2,7 @@
 
 A modern task management system with a retro-modern design, built using TypeScript, Node.js, Express, and a feature-rich frontend.
 
-![Task Management System Screenshot](https://i.imgur.com/example.png)
+![Task Management System Screenshot](Preview.PNG)
 
 ## Features
 
